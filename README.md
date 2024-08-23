@@ -1,6 +1,11 @@
 # EXECUTION-OF-LOGIC-GATES-USING-PLC-LADDER-PROGRAM
 
 
+ # NAME :
+ # REGISTER NUMBER :
+ # DEPARTMENT 
+ # YEAR 
+
  
 # Aim:
 To implement and verify the functioning of basic logic gates (AND, OR, NOT, NAND, NOR, XOR) using a PLC ladder program and simulate the outputs.
